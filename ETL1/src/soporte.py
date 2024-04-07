@@ -1,11 +1,12 @@
 #%%
-# Tratamiento de datos
+# tratamieneto de datos
 # -----------------------------------------------------------------------
 import pandas as pd
 # import os
 
 from dotenv import load_dotenv
 # load_dotenv("src/.env")
+# load_dotenv()
 
 
 # %%
