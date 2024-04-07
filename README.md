@@ -26,16 +26,16 @@ Esta evaluación abarca una serie de preguntas que evalúan la comprensión y ha
 
 ##  Bibliotecas específicas:
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import scipy.stats as stats
-from scipy.stats import shapiro, levene, mannwhitneyu
-from scipy.stats import ttest_ind, norm, chi2_contingency
-pd.set_option('display.max_columns', None) # para poder visualizar todas las columnas de los DataFrames
-warnings.filterwarnings("ignore")
-from sklearn.impute import KNNImputer
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- import scipy.stats as stats
+- from scipy.stats import shapiro, levene, mannwhitneyu
+- from scipy.stats import ttest_ind, norm, chi2_contingency
+- pd.set_option('display.max_columns', None) # para poder visualizar todas las columnas de los DataFrames
+- warnings.filterwarnings("ignore")
+- from sklearn.impute import KNNImputer
 
 ##  Contribuciones
 
